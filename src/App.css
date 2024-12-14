@@ -1,0 +1,27 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.header {
+  font-size: 2rem;
+  color: #333;
+}
+
+.upload-section {
+  margin: 20px 0;
+}
+
+.upload-label {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.upload-input {
+  display: none;
+}
